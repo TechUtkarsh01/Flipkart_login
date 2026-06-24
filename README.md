@@ -6,8 +6,9 @@
 - git reset 
 - git branch
 - git branch
-|no | environment variable | assigned value
-|---|----------------------|----------|
-1| kannada| 1
-2 | hindi | 12
-3 |english | 123
+
+| no | environment variable | assigned value |
+|---|----------------------|----------------|
+| 1 | kannada              | 1              |
+| 2 | hindi                | 12             |
+| 3 | english              | 123            |
