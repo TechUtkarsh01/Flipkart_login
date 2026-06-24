@@ -12,3 +12,8 @@
 | 1 | kannada              | 1              |
 | 2 | hindi                | 12             |
 | 3 | english              | 123            |
+
+```
+printf {"this is to test copy option}
+can we copy the whole text inside this ?
+```
